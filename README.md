@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Online-shop](https://github.com/Moein-Kazemi/Online-Shop)
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **e-commerce project**
+- 👯 I’m looking to collaborate on **Next js project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moein-Kazemi](https://github.com/Moein-Kazemi)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Moein-Kazemi)
 
-- 💬 Ask me about **Java Script , React and ...**
+- 💬 Ask me about **Java Script , React and next js and more...**
 
 - 📫 How to reach me **moeinkazemi.dev@gmail.com**
 
