@@ -8,7 +8,15 @@
 
 ###
 
-<p data-importer="text" align="left">🔭 I'm currently working on <a src="https://github.com/Moein-Kazemi/teambest-frontend">TeamBest</a><br><br>🌱 I'm currently expanding my knowledge in Backend Architecture, Performance Optimization, and System Design<br><br>👯 I'm looking to collaborate on Full-Stack (MERN) projects<br><br>👨‍💻 All of my projects are available here<br><br>💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and REST APIs<br><br>📫 How to reach me: moeinkazemi.dev@gmail.com</p>
+## 🚀 About Me
+
+* 🔭 I'm currently working on **[TeamBest](https://github.com/Moein-Kazemi/teambest-frontend)**
+* 🌱 I'm currently expanding my knowledge in **Backend Architecture, Performance Optimization, and System Design**
+* 👯 I'm looking to collaborate on **Full-Stack (MERN) projects**
+* 👨‍💻 All of my projects are available **[here](https://github.com/Moein-Kazemi?tab=repositories)**
+* 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, and REST APIs**
+* 📫 How to reach me: **[moeinkazemi.dev@gmail.com](mailto:moeinkazemi.dev@gmail.com)**
+
 
 ###
 
@@ -23,10 +31,10 @@
   <a href="https://www.instagram.com/moein._kazemi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="moeinkazemi.dev@gmail.com" target="_blank">
+  <a href="mailto:moeinkazemi.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="@Moein7k" target="_blank">
+  <a href="https://t.me/moein7k" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
 </div>
